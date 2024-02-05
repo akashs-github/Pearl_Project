@@ -1,0 +1,109 @@
+
+#main{
+    width: 100%;
+    height: 620px;
+    /* border: 1px solid black; */
+    display: flex;
+    font-family: sans-serif;
+
+}
+
+.div1{
+    width: 50%;
+    height: 620px;
+    /* border: 1px solid black; */
+}
+.div2{
+    width: 50%;
+    height: 400px;
+    border-left: 1px solid black;
+    margin-top: 130px;
+}
+.circle{
+    width: 350px;
+    height: 350px;
+    border: 1px solid blue;
+    margin: 125px;
+    border-radius: 50%;
+    color: white;
+    background: blue;
+}
+.circle h1{
+    text-align: center;
+    margin-top: 40%;
+
+}
+#icon{
+    width: 350px;
+    height: 35px;
+    /* border: 1px solid black; */
+    font-size: 35px;
+    margin-top: -110px;
+    margin-left: 150px;
+}
+#icon i{
+    margin-left: 20px;
+    color: blue;
+}
+.div1 h5{
+    font-size: 15px;
+    margin-left: 140px;
+}
+.div1 p{
+    font-size: 13px;
+    margin-left: 25px;
+}
+
+.div2 #input1{
+    font-size: 18px;
+    /* margin-top: 200px; */
+    margin-left: 100px;
+    border: none;
+    border-bottom: 1px solid gray;
+    width: 500px;
+    
+}
+.div2 input{
+    font-size: 18px;
+    margin-top: 50px;
+    margin-left: 100px;
+    border: none;
+    border-bottom: 1px solid gray;
+    width: 500px;
+
+}
+.show{
+    width: 500px;
+    height: 50px;
+    /* border: 1px solid black; */
+    margin-top: 40px;
+    margin-left: 100px;
+    display: flex;
+}
+
+.show #show{
+    font-size: 30px;
+    color: blue;
+    /* margin-top: 10px; */
+}
+.show h4{
+    margin-left: 180px;
+    color: blue;
+}
+
+.div2 button{
+    font-size: 20px;
+    width: 500px;
+    height: 45px;
+    margin-left: 100px;
+    margin-top: 40px;
+    background: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+#last{
+    text-align: center;
+    margin-top: 150px;
+}
